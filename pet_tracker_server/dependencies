@@ -1,0 +1,19 @@
+# List of Dependencies use for PET-TRACKER Project
+
+# Installing postgres
+#(Erika Ubuntu 14)
+sudo apt-get install postgresql postgresql-contrib
+# (Bryan Ubuntu 20)sudo apt-get install postgresql
+
+
+# Intalling the psycopg2 Library
+sudo apt-get install python-pip
+sudo apt-get update
+sudo apt-get install libpq-dev python-dev
+
+# Specied the pytohn we are going to be using
+python3.9 -m pip install psycopg2
+
+
+
+
